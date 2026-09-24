@@ -72,3 +72,39 @@ footer {
     padding: 20px;
     text-align: center;
 }
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    font-weight: normal;
+}
+.card-destaque {
+    background-color: #dff2ff;
+    border-left: 6px solid #1d5d91;}
+    .card-info {
+    background-color: #e8f7ef;
+    border-left: 6px solid #2d8a57;
+}
+.imagem-fundo {
+    min-height: 260px;
+    margin-top: 20px;
+    padding: 50px 30px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.75);
+}.imagem-fundo {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fundo-lanches {
+    background-image: url("primaolanches.png");
+}
