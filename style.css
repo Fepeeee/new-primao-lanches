@@ -108,14 +108,8 @@ footer {
 #fundo-lanches {
     background-image: url("primaolanches.png");
 }
-h1 {
-    margin-bottom: 15px;
-}
-
-h2 {
-    margin-bottom: 15px;
-}
-
+h1,
+h2,
 h3 {
     margin-bottom: 15px;
 }
